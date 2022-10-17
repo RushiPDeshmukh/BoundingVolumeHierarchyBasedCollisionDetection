@@ -9,4 +9,14 @@ Run simulator.py and wait for the pygame window to pop up. This window will be t
 In the simulation you can interact with the world by moving towards them. If the avatar object collides with the world object then the background color changes from GREY to WHITE.
 
 
+Results:
+
+
+
+
+https://user-images.githubusercontent.com/98420717/196287945-692d41f6-e3a9-4c1d-9219-b7bd0f2b0ac2.mov
+
+
+
+https://user-images.githubusercontent.com/98420717/196287952-c91206f8-b103-47b3-94f3-8b76b7141d91.mov
 
